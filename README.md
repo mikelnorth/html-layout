@@ -3,6 +3,9 @@
 #My First Commit Stroy
 once upon a time there was a new deceloper. He wanted to leanr hot to use git hub. So he wrote a stroy about how to make changes to code, and then shar with github.
 
+git config --user.email "mikel.north@gmail.com"
+git config --user.name "Mikel North"
+
 # Project Summary
 
 In this project, you will re-create three different layouts using HTML and CSS. Each layout is broken into a different folder. Inside each layout's folder you'll find an `index.html`, `index.css`, and an image file. The goal is to get as close as possible to the given design. Use the given image as a reference.
