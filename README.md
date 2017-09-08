@@ -1,10 +1,5 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
-# My First Commit Stroy
-once upon a time there was a new deceloper. He wanted to leanr hot to use git hub. So he wrote a stroy about how to make changes to code, and then shar with github.
-
-git config --user.email "mikel.north@gmail.com"
-git config --user.name "Mikel North"
 
 # Project Summary
 
