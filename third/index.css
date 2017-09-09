@@ -1,0 +1,45 @@
+body, htm{
+    margin: 0px;
+    padding: 0px
+}
+
+
+.row{
+    width: 100vw;
+    height: 100px;;
+    
+}
+
+.header{
+    box-sizing: border-box;
+    padding: 10px;
+    background: #B8B8B8;
+    
+}
+
+.box1{
+    width: 80px;
+    height: 80px;
+    background: blue;
+}
+
+.main{
+    background: #E2E2D0;
+    padding: 60px
+}
+
+.container-1{
+    background: #3E3EDB;
+}
+
+.container-2{
+    background: lime;
+}
+
+.container-3{
+    background: greenyellow;
+}
+
+.container-4{
+    background: yellow;
+}
